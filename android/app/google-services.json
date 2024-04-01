@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855388588581",
+    "project_id": "flutter-proyects-bc26a",
+    "storage_bucket": "flutter-proyects-bc26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855388588581:android:e510e2f39134914d248dcc",
+        "android_client_info": {
+          "package_name": "com.franciscocaviglia.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHcgwIXOKBlszEsHML4R_ZKdckxAqfWf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
